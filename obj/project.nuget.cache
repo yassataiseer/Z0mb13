@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "brXg6TrN/d+9KD4bGSEa4CRb1SyNn0BdBbggbKpC9XqpOqaiJz5p+A4ABEk8pGKpX4s5HdT+9nWDaSIu+fT5bg==",
+  "success": true,
+  "projectFilePath": "/Users/yassa/Z0mb13/Z0mb13.csproj",
+  "expectedPackageFiles": [
+    "/Users/yassa/.nuget/packages/raylib-cs/4.0.0/raylib-cs.4.0.0.nupkg.sha512",
+    "/Users/yassa/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

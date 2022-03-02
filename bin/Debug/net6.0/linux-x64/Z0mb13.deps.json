@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/linux-x64": {
+      "Z0mb13/1.0.0": {
+        "dependencies": {
+          "Raylib-cs": "4.0.0"
+        },
+        "runtime": {
+          "Z0mb13.dll": {}
+        }
+      },
+      "Raylib-cs/4.0.0": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/net6.0/Raylib-cs.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        },
+        "native": {
+          "runtimes/linux-x64/native/libraylib.so": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "Z0mb13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Raylib-cs/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ia5oUkINva747wBMnt7NInIYHuGcybfP1i61YwGQP1jkWeqCYmCq+B1AqB9k+RrlgeJtuTSpdP814Q7mvR8sfw==",
+      "path": "raylib-cs/4.0.0",
+      "hashPath": "raylib-cs.4.0.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Z0mb13
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Z0mb13.dll
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Z0mb13.deps.json
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Z0mb13.runtimeconfig.json
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Z0mb13.pdb
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/Raylib-cs.dll
+/Users/yassa/Z0mb13/bin/Debug/net6.0/linux-x64/publish/libraylib.so
