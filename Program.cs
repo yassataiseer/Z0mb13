@@ -213,7 +213,11 @@ namespace HelloWorld
                 if(StartScreen){
                 Raylib.ClearBackground(Color.BLACK);
 
-                Raylib.DrawText("Z0mb13 Land", Length/4, Width/4, 40, Color.WHITE);
+                Raylib.DrawText("Z0mb13 Land", Length/4, Width/8, 40, Color.WHITE);
+                Raylib.DrawText("Instructions", Length/7, Width/6, 40, Color.YELLOW);
+                Raylib.DrawText("SHIFT TO SPRINT, SPACE TO SHOOT", Length/9, Width/4, 30, Color.YELLOW);
+
+                Raylib.DrawText("WASD TO MOVE", Length/6, Width/3, 30, Color.YELLOW);
                 Raylib.DrawRectangle(Length/4, Width/2,Width/2, Length/10, Color.GREEN);
                 Raylib.DrawText("START", Length/4, Width/2,40, Color.BLACK);
                 if(Raylib.IsMouseButtonDown(MouseButton.MOUSE_LEFT_BUTTON))
